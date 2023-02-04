@@ -1,0 +1,17 @@
+.navbar {
+	background-color: #383434;
+	color: white;
+	container: flex;
+}
+
+a {
+	text-decoration: none;
+}
+
+h3 {
+	color: white;
+}
+
+button {
+	font-size: 55px;
+}
